@@ -1,16 +1,15 @@
-![MasterHead](https://www.valuelabs.com/wp-content/uploads/2022/05/web3-banner-01101-2.jpeg)
+<img alt="Coding" size="200" src="https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966">
 <h1 align="center">Hi 👋, I'm Sudarsan Pradhan</h1>
-<h3 align="center">A passionate web developer and Web3 learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarsan-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sudarsan-pradhan" />
 <a href="https://wakatime.com/@62f55924-c7f8-4b63-9dab-1ccd5363daa1"><img src="https://wakatime.com/badge/user/62f55924-c7f8-4b63-9dab-1ccd5363daa1.svg" alt="Total time coded since Mar 4 2023" /></a>
 </p>
-
 <p align="left"> <a href="https://twitter.com/_su_darshan_" target="blank"><img src="https://img.shields.io/twitter/follow/_su_darshan_?logo=twitter&style=for-the-badge" alt="_su_darshan_" /></a> </p>
+<img align="right" alt="Coding" width="600" height="330" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **Backend Development**
+- 👯 I’m looking to collaborate on **Open Source project**
 
 - 🤝 I’m looking for help with **Spring Boot**
 
