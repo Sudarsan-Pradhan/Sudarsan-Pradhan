@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/_su_darshan_" target="blank"><img src="https://img.shields.io/twitter/follow/_su_darshan_?logo=twitter&style=for-the-badge" alt="_su_darshan_" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web3 Blockchain**
+- 👯 I’m looking to collaborate on **Backend Development**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **Spring Boot**
 
 - 💬 Ask me about **java**
 
