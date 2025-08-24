@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Hey+I'm+Sudarsan+Pradhan;Java+%7C+Spring+Boot+%7C+Solidity+%7C+Web3+Developer;Open+Source+%7C+Remote+Work+Enthusiast;Let's+Build+Something+Amazing+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Hey+I'm+Sudarsan+Pradhan;Java+%7C+Spring+Boot+%7C+Solidity+%7C+Blockchain;Open+Source+%7C+Remote+Work+Enthusiast;Let's+Build+Something+Amazing+🚀" />
 </p>
 
 ---
